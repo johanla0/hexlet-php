@@ -1,0 +1,5 @@
+{
+    "name": "johanlange/hexlet-php",
+    "description": "example package",
+    "require": {}
+}
