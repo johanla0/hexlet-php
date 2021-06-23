@@ -12,4 +12,6 @@ uncommit:
 	git reset --soft HEAD^
 upd:
 	git merge master --no-edit
+update-deps:
+	composer update
 .PHONY:	test
