@@ -1,5 +1,7 @@
 {
     "name": "johanlange/hexlet-php",
     "description": "example package",
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
 }
